@@ -1,7 +1,7 @@
 Assignment 1 - Linear Regression
 ------
 
-Ex1.pdf contains a full description of the scope and methodology of this assignment. A summary of the key files are provided below:
+`ex1.pdf` contains a full description of the scope and methodology of this assignment. A summary of the key files are provided below:
 
 #### 1. Linear Regression with One Variable
 
