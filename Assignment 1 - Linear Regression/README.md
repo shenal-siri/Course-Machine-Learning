@@ -1,7 +1,9 @@
 Assignment 1 - Linear Regression
 ------
 
-`ex1.pdf` contains a full description of the scope and methodology of this assignment. Key files are summarized as follows:
+Assignment 1 focuses on implementing Linear Regression using one variable (i.e, population to predict business revenue) and multiple variables (i.e, real estate information to predict property valuation). `ex1.pdf` contains a full description of the scope and methodology of this assignment.
+
+The files which have been edited / completed by me are summarized below:
 
 
 #### 1. Linear Regression with One Variable
