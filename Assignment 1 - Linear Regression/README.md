@@ -1,7 +1,8 @@
 Assignment 1 - Linear Regression
 ------
 
-`ex1.pdf` contains a full description of the scope and methodology of this assignment. A summary of the key files are provided below:
+`ex1.pdf` contains a full description of the scope and methodology of this assignment. Key files are summarized as follows:
+
 
 #### 1. Linear Regression with One Variable
 
@@ -20,5 +21,5 @@ Assignment 1 - Linear Regression
 | `ex1_multi.m` | Optional exercise script  - sequentially runs through the assignment |
 | `featureNormalize.m` | Performs feature scaling and normalization on the dataset to speed up gradient descent |
 | `computeCostMulti.m` | Calculates cost function for current paramaters (vectorized) |
-| `gradientDescentMulti.m` | Implements gradient descent (vectorized) - updating theta until convergence |
-| `normalEqn.m` | Calculates parameters using closed-form solution of linear regression |
+| `gradientDescentMulti.m` | Implements gradient descent (vectorized) - updating parameters until convergence |
+| `normalEqn.m` | Calculates parameters using closed-form solution for linear regression |
